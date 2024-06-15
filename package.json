@@ -23,7 +23,7 @@
     "lit": "^2.7.2",
     "urlpattern-polyfill": "^7.0.0",
     "workbox-build": "^6.5.2",
-    "workbox-core": "^6.5.2",
+    "workbox-core": "^6.6.0",
     "workbox-precaching": "^6.5.2"
   },
   "devDependencies": {
